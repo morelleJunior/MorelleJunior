@@ -265,18 +265,6 @@ Projeto web voltado para apresentação comercial, captação de clientes e aval
 
 ---
 
-## 🔥 Contribuições
-
-<p align="center">
-  <img 
-    alt="GitHub Streak" 
-    height="200" 
-    src="https://streak-stats.demolab.com?user=morelleJunior&theme=tokyonight&hide_border=true&locale=pt_BR" 
-  />
-</p>
-
----
-
 ## 🎯 Objetivo profissional
 
 Busco evoluir como profissional técnico nas áreas de **desenvolvimento de software, banco de dados, automação, análise de sistemas e qualidade técnica**.
